@@ -49,7 +49,7 @@ layout: landing
   [Cards](/docs/shortcodes/experimental/cards/),
   [Tabs](/docs/shortcodes/tabs/),
   [Images](/docs/shortcodes/experimental/images/),
-  [Asciinema](/docs/shortcodes/experimental/asciinema/),
+  [Asciinema](/docs/shortcodes/asciinema/),
   [KaTex](/docs/shortcodes/katex/),
   [Mermaid](/docs/shortcodes/mermaid/) and others.
   {{< /card >}}
